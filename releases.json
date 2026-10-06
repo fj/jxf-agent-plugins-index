@@ -1,4 +1,11 @@
 {
+  "foundry-finder": {
+    "description": "Discovers Azure AI Foundry deployments at startup and registers them as pi models.",
+    "pi": {
+      "repo": "fj/jxf-agent-plugins-foundry-finder-pi",
+      "version": "0.1.20261006022043"
+    }
+  },
   "jxf": {
     "description": "Personal coding workflow.",
     "claude": {

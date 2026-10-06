@@ -4,3 +4,6 @@
 [submodule "mod-jxf-fancy-details-claude"]
 	path = mod-jxf-fancy-details-claude
 	url = git@github.com:fj/jxf-agent-plugins-mod-jxf-fancy-details-claude.git
+[submodule "foundry-finder-pi"]
+	path = foundry-finder-pi
+	url = git@github.com:fj/jxf-agent-plugins-foundry-finder-pi.git
