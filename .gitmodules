@@ -10,3 +10,6 @@
 [submodule "jxf-pi"]
 	path = jxf-pi
 	url = git@github.com:fj/jxf-agent-plugins-jxf-pi.git
+[submodule "mod-jxf-fancy-details-pi"]
+	path = mod-jxf-fancy-details-pi
+	url = git@github.com:fj/jxf-agent-plugins-mod-jxf-fancy-details-pi.git

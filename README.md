@@ -6,7 +6,7 @@ Released builds of the plugins in [fj/agent-plugins](https://github.com/fj/agent
 |---|---|---|---|
 | foundry-finder | Discovers Azure AI Foundry deployments at startup and registers them as pi models. | - | 0.1.20261006022043 |
 | jxf | Personal coding workflow. | 0.1.20261006021853 | 0.1.20261006021853 |
-| mod-jxf-fancy-details | Prompt and tool timers, per-reply usage prefixes and a usage footer. | 0.3.20261006024144 | - |
+| mod-jxf-fancy-details | Prompt and tool timers, per-reply usage prefixes and a usage footer. | 0.3.20261006024144 | 0.3.20261006024144 |
 
 ## Install
 
@@ -23,4 +23,5 @@ claude plugin install mod-jxf-fancy-details@jxf
 ```sh
 pi install git:github.com/fj/jxf-agent-plugins-foundry-finder-pi@v0.1.20261006022043
 pi install git:github.com/fj/jxf-agent-plugins-jxf-pi@v0.1.20261006021853
+pi install git:github.com/fj/jxf-agent-plugins-mod-jxf-fancy-details-pi@v0.3.20261006024144
 ```
