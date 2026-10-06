@@ -1,0 +1,19 @@
+{
+  "name": "jxf",
+  "owner": {
+    "name": "John Feminella"
+  },
+  "description": "Plugins released from fj/agent-plugins.",
+  "plugins": [
+    {
+      "name": "jxf",
+      "description": "Personal coding workflow.",
+      "version": "0.1.20261006021853",
+      "source": {
+        "source": "github",
+        "repo": "fj/jxf-agent-plugins-jxf-claude",
+        "ref": "v0.1.20261006021853"
+      }
+    }
+  ]
+}

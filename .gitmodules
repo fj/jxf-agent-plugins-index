@@ -1,0 +1,3 @@
+[submodule "jxf-claude"]
+	path = jxf-claude
+	url = git@github.com:fj/jxf-agent-plugins-jxf-claude.git

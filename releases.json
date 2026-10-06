@@ -1,0 +1,9 @@
+{
+  "jxf": {
+    "description": "Personal coding workflow.",
+    "claude": {
+      "repo": "fj/jxf-agent-plugins-jxf-claude",
+      "version": "0.1.20261006021853"
+    }
+  }
+}
