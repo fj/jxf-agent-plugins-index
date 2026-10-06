@@ -7,3 +7,6 @@
 [submodule "foundry-finder-pi"]
 	path = foundry-finder-pi
 	url = git@github.com:fj/jxf-agent-plugins-foundry-finder-pi.git
+[submodule "jxf-pi"]
+	path = jxf-pi
+	url = git@github.com:fj/jxf-agent-plugins-jxf-pi.git
