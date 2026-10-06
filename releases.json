@@ -5,5 +5,12 @@
       "repo": "fj/jxf-agent-plugins-jxf-claude",
       "version": "0.1.20261006021853"
     }
+  },
+  "mod-jxf-fancy-details": {
+    "description": "Prompt and tool timers, per-reply usage prefixes and a usage footer.",
+    "claude": {
+      "repo": "fj/jxf-agent-plugins-mod-jxf-fancy-details-claude",
+      "version": "0.3.20261006024144"
+    }
   }
 }

@@ -14,6 +14,16 @@
         "repo": "fj/jxf-agent-plugins-jxf-claude",
         "ref": "v0.1.20261006021853"
       }
+    },
+    {
+      "name": "mod-jxf-fancy-details",
+      "description": "Prompt and tool timers, per-reply usage prefixes and a usage footer.",
+      "version": "0.3.20261006024144",
+      "source": {
+        "source": "github",
+        "repo": "fj/jxf-agent-plugins-mod-jxf-fancy-details-claude",
+        "ref": "v0.3.20261006024144"
+      }
     }
   ]
 }
