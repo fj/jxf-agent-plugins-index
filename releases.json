@@ -33,6 +33,10 @@
     "pi": {
       "repo": "fj/jxf-agent-plugins-mod-jxf-session-title-pi",
       "version": "0.1.20261018051307"
+    },
+    "claude": {
+      "repo": "fj/jxf-agent-plugins-mod-jxf-session-title-claude",
+      "version": "0.1.20261018170407"
     }
   }
 }

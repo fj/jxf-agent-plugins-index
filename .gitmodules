@@ -16,3 +16,6 @@
 [submodule "mod-jxf-session-title-pi"]
 	path = mod-jxf-session-title-pi
 	url = git@github.com:fj/jxf-agent-plugins-mod-jxf-session-title-pi.git
+[submodule "mod-jxf-session-title-claude"]
+	path = mod-jxf-session-title-claude
+	url = git@github.com:fj/jxf-agent-plugins-mod-jxf-session-title-claude.git
