@@ -32,7 +32,7 @@
     "description": "Names a session from its first prompt with a small model and shows the name above the prompt.",
     "pi": {
       "repo": "fj/jxf-agent-plugins-mod-jxf-session-title-pi",
-      "version": "0.1.20261018051307"
+      "version": "0.1.20261018170407"
     },
     "claude": {
       "repo": "fj/jxf-agent-plugins-mod-jxf-session-title-claude",
