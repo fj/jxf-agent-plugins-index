@@ -27,5 +27,12 @@
       "repo": "fj/jxf-agent-plugins-mod-jxf-fancy-details-pi",
       "version": "0.3.20261018021154"
     }
+  },
+  "mod-jxf-session-title": {
+    "description": "Names a session from its first prompt with a small model and shows the name above the prompt.",
+    "pi": {
+      "repo": "fj/jxf-agent-plugins-mod-jxf-session-title-pi",
+      "version": "0.1.20261018051307"
+    }
   }
 }
