@@ -38,5 +38,12 @@
       "repo": "fj/jxf-agent-plugins-mod-jxf-session-title-claude",
       "version": "0.1.20261018170407"
     }
+  },
+  "mod-jxf-tmux-spinner": {
+    "description": "Marks the tmux window of an agent as busy, waiting for you, or done.",
+    "claude": {
+      "repo": "fj/jxf-agent-plugins-mod-jxf-tmux-spinner-claude",
+      "version": "0.1.20261019124257"
+    }
   }
 }

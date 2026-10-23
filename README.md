@@ -8,6 +8,7 @@ Released builds of the plugins in [fj/agent-plugins](https://github.com/fj/agent
 | jxf | Personal coding workflow. | 0.1.20261006021853 | 0.1.20261006021853 |
 | mod-jxf-fancy-details | Prompt and tool timers, per-reply usage prefixes and a usage footer. | 0.3.20261023134738 | 0.3.20261018021154 |
 | mod-jxf-session-title | Names a session from its first prompt with a small model and shows the name above the prompt. | 0.1.20261018170407 | 0.1.20261018170407 |
+| mod-jxf-tmux-spinner | Marks the tmux window of an agent as busy, waiting for you, or done. | 0.1.20261019124257 | - |
 
 ## Install
 
@@ -18,6 +19,7 @@ claude plugin marketplace add fj/jxf-agent-plugins-index
 claude plugin install jxf@jxf
 claude plugin install mod-jxf-fancy-details@jxf
 claude plugin install mod-jxf-session-title@jxf
+claude plugin install mod-jxf-tmux-spinner@jxf
 ```
 
 ### Pi

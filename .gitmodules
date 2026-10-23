@@ -19,3 +19,6 @@
 [submodule "mod-jxf-session-title-claude"]
 	path = mod-jxf-session-title-claude
 	url = git@github.com:fj/jxf-agent-plugins-mod-jxf-session-title-claude.git
+[submodule "mod-jxf-tmux-spinner-claude"]
+	path = mod-jxf-tmux-spinner-claude
+	url = git@github.com:fj/jxf-agent-plugins-mod-jxf-tmux-spinner-claude.git
