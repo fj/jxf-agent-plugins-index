@@ -6,7 +6,7 @@ Released builds of the plugins in [fj/agent-plugins](https://github.com/fj/agent
 |---|---|---|---|
 | foundry-finder | Discovers Azure AI Foundry deployments at startup and registers them as pi models. | - | 0.1.20261006022043 |
 | jxf | Personal coding workflow. | 0.1.20261006021853 | 0.1.20261006021853 |
-| mod-jxf-fancy-details | Prompt and tool timers, per-reply usage prefixes and a usage footer. | 0.3.20261023134738 | 0.3.20261018021154 |
+| mod-jxf-fancy-details | Prompt and tool timers, per-reply usage prefixes and a usage footer. | 0.3.20261026221028 | 0.3.20261018021154 |
 | mod-jxf-session-title | Names a session from its first prompt with a small model and shows the name above the prompt. | 0.1.20261018170407 | 0.1.20261018170407 |
 | mod-jxf-tmux-spinner | Marks the tmux window of an agent as busy, waiting for you, or done. | 0.1.20261019124257 | - |
 
