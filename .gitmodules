@@ -22,3 +22,6 @@
 [submodule "mod-jxf-tmux-spinner-claude"]
 	path = mod-jxf-tmux-spinner-claude
 	url = git@github.com:fj/jxf-agent-plugins-mod-jxf-tmux-spinner-claude.git
+[submodule "mod-jxf-tmux-spinner-pi"]
+	path = mod-jxf-tmux-spinner-pi
+	url = git@github.com:fj/jxf-agent-plugins-mod-jxf-tmux-spinner-pi.git
