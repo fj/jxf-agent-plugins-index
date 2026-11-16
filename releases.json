@@ -1,9 +1,9 @@
 {
   "foundry-finder": {
-    "description": "Discovers Azure AI Foundry deployments at startup and registers them as pi models.",
+    "description": "Discovers Azure AI Foundry deployments and Vertex AI Gemini models at startup and registers them as pi models.",
     "pi": {
       "repo": "fj/jxf-agent-plugins-foundry-finder-pi",
-      "version": "0.1.20261006022043"
+      "version": "0.1.20261116231134"
     }
   },
   "jxf": {
